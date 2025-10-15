@@ -1,2 +1,2 @@
-const a ="estamos en la rama master";
+const a ="hola que tal";
 console.log(a);
